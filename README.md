@@ -41,5 +41,5 @@ I'm a creator at heart, passionate about building digital experiences. With a ba
 - Developed the frontend for a stock analyzer tool.
 - Detailed visualization of stock data in a collaborative team effort.
 
-## Let's Connect on [LinkedIn]([https://timsum.net](https://www.linkedin.com/in/timothymaxwellsummers/))!
+## Let's Connect on [LinkedIn](https://www.linkedin.com/in/timothymaxwellsummers/)!
 If you're into web development, cool digital projects, or if you just want to say hi, feel free to connect with me!
